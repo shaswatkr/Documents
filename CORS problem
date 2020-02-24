@@ -1,0 +1,5 @@
+This API enables cross-origin requests to anywhere.
+
+https://cors-anywhere.herokuapp.com/
+
+Adding this link before any URL we're using will remove CORS problem and will make the API getting hit successfully.
