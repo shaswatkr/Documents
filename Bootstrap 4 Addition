@@ -1,0 +1,14 @@
+Run - 
+npm install bootstrap 
+npm install jquery
+
+"styles": [
+              "src/styles.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.css",
+          ],
+"scripts": [
+                "./node_modules/jquery/dist/jquery.js",
+                "./node_modules/bootstrap/dist/js/bootstrap.js"
+           ]
+           
+Add these lines in angular.json file.
